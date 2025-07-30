@@ -1,0 +1,4 @@
+timestamp,category,class_name,confidence,location,bbox,bbox_area
+# This file will be populated with detection logs during runtime
+# Sample format:
+# 2025-07-25T10:30:00,Graffiti,graffiti,0.85,Camera_01,"[100, 200, 300, 400]",40000
