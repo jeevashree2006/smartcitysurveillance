@@ -1,0 +1,34 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build / packaging artifacts
+*.tar.gz
+build/
+dist/
+*.egg-info/
+
+# Runtime frame captures
+capture_*.jpg
+
+# Interview guide (kept local; delete these two lines to include it in the repo)
+Smart_City_Surveillance_Interview_Guide.docx
+Smart_City_Surveillance_Interview_Guide.pdf
